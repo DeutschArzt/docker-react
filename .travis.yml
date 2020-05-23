@@ -8,3 +8,5 @@ services:
 
 script:
   - docker run -e CI=true deutscharzt/docker-react npm run test 
+
+  #Adding a comment to trigger another build
