@@ -11,7 +11,7 @@ function App() {
           This is the beginning of the future. -Matthew =)
         </p>
         <p>
-          <i>Für alles seit.</i>
+          <i>Für alle zeit.</i>
         </p>
         <a
           className="App-link"
