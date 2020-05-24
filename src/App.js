@@ -11,6 +11,9 @@ function App() {
           This is the beginning of the future. -Matthew =)
         </p>
         <p>
+          This message was written from New England!
+        </p>
+        <p>
           <i>Für alle zeit.</i>
         </p>
         <a
